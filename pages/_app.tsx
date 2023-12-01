@@ -9,7 +9,7 @@ import Shell from '@/components/AppShell';
 
 export default function App({ Component, pageProps }: AppProps) {
   return (
-    <MantineProvider theme={theme}>
+    <MantineProvider theme={theme} defaultColorScheme="dark">
       <Head>
         <title>Lux</title>
         <meta
