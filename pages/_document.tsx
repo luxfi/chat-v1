@@ -6,27 +6,27 @@ export default function Document() {
     <Html lang="en">
       <Head>
         <ColorSchemeScript />
-        <meta name="title" content="Wanderlust" />
+        <meta name="title" content="Lux" />
         <meta name="image" content="/og-image.png" />
         <meta name="description" content="Find your next adventure" />
 
-        <meta name="og:title" content="Wanderlust" />
+        <meta name="og:title" content="Lux" />
         <meta name="og:description" content="Find your next adventure" />
         <meta name="og:image" content="/og-image.png" />
         <meta property="og:image:secure_url" content="/og-image.png" />
-        <meta name="og:url" content="https://wanderlust.hultman.dev" />
+        <meta name="og:url" content="https://lux.chat" />
         <meta property="og:type" content="website" />
-        <meta property="og:site_name" content="Wanderlust" />
+        <meta property="og:site_name" content="Lux" />
         <meta property="og_locale" content="en_US" />
 
-        <meta name="twitter:title" content="Wanderlust" />
+        <meta name="twitter:title" content="Lux" />
         <meta name="twitter:description" content="Find your next adventure" />
         <meta name="twitter:image" content="/og-image.png" />
-        <meta name="twitter:url" content="https://wanderlust.hultman.dev" />
+        <meta name="twitter:url" content="https://lux.chat" />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:creator" content="@ACHultman" />
 
-        <link rel="canonical" href="https://wanderlust.hultman.dev" />
+        <link rel="canonical" href="https://lux.chat" />
 
         <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
         <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
