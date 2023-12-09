@@ -45,7 +45,7 @@ function IconLuxChat({
   )
 }
 
-function IconOpenAI({ className, ...props }: React.ComponentProps<'svg'>) {
+function IconLux({ className, ...props }: React.ComponentProps<'svg'>) {
   return (
     <svg
       fill="currentColor"
@@ -436,7 +436,7 @@ function IconChevronUpDown({
 export {
   IconEdit,
   IconLuxChat,
-  IconOpenAI,
+  IconLux,
   IconVercel,
   IconGitHub,
   IconSeparator,
