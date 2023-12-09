@@ -16,7 +16,7 @@ const exampleMessages = [
   {
     heading: 'Get a Lux Credit Card',
     message: `How do I apply for Lux Credit?`
-  }
+  },
   {
     heading: 'Join the community',
     message: `How do I join the Lux DAO? Where is the Lux community based?`
