@@ -7,15 +7,15 @@ import { IconArrowRight } from '@/components/ui/icons'
 const exampleMessages = [
   {
     heading: 'Learn about Lux Network',
-    message: `What is a Lux Network?`
+    message: `What is Lux Network?`
   },
   {
     heading: 'Learn about Lux Validator',
-    message: 'Give me instructions on how to run a Lux Validator.'
+    message: 'Give me instructions to run a Lux Validator.'
   },
   {
     heading: 'Get a Lux Credit Card',
-    message: `How do I applt for Lux Credit?`
+    message: `How do I apply for Lux Credit?`
   }
 ]
 

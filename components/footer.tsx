@@ -12,10 +12,9 @@ export function FooterText({ className, ...props }: React.ComponentProps<'p'>) {
       )}
       {...props}
     >
-      Open source AI chatbot built with{' '}
-      <ExternalLink href="https://nextjs.org">Next.js</ExternalLink> and{' '}
-      <ExternalLink href="https://vercel.com/storage/kv">
-        Vercel KV
+      Beta software. Lux AI may display inaccurate info or hallucinate. Copyright 2023{' '}
+      <ExternalLink href="https://lux.partners">
+        Lux Partners Limited
       </ExternalLink>
       .
     </p>
