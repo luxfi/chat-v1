@@ -1,16 +1,16 @@
 <a href="https://lux.chat/">
-  <h1 align="center">LUX AI Chatbot</h1>
+  <h1 align="center">LUX AI</h1>
 </a>
 
 <p align="center">
-  Lux AI is powered by Next.js, the Vercel AI SDK, OpenAI, and Vercel KV.
+  Lux AI is powered by [Hanzo](https://hanzo.ai) the Hanzo AI SDK.
 </p>
 
 <p align="center">
   <a href="#features"><strong>Features</strong></a> ·
   <a href="#model-providers"><strong>Model Providers</strong></a> ·
   <a href="#deploy-your-own"><strong>Deploy Your Own</strong></a> ·
-  <a href="#running-locally"><strong>Running locally</strong></a> ·
+  <a href="#running-locally"><strong>Run locally</strong></a> ·
   <a href="#authors"><strong>Authors</strong></a>
 </p>
 <br/>
