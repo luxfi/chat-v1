@@ -19,9 +19,9 @@
 
 - [Next.js](https://nextjs.org) App Router
 - React Server Components (RSCs), Suspense, and Server Actions
-- [Hanzo AI SDK](https://docs.hanzo.ai) for streaming chat API and backend
+- [Hanzo AI](https://docs.hanzo.ai) for streaming chat API and backend
 - Support for OpenAI (default), Anthropic, Cohere, Hugging Face, or custom AI chat models and/or LangChain
-- [shadcn/ui](https://ui.shadcn.com)
+- [Hanzo UI](https://ui.hanzo.ai)
   - Styling with [Hanzo UI](https://github.com/hanzoai/ui)
   - [Radix UI](https://radix-ui.com) for headless component primitives
   - Icons from [Phosphor Icons](https://phosphoricons.com)
