@@ -3,7 +3,7 @@
 </a>
 
 <p align="center">
-  Lux AI is powered by <a href="https://hanzo.ai">Hanzo</a> the Hanzo AI SDK.
+  Lux AI is powered by <a href="https://hanzo.ai">Hanzo</a> and the Hanzo AI SDK.
 </p>
 
 <p align="center">
