@@ -1,3 +1,5 @@
+<p align="center"><img src=".github/hero.svg" alt="chat-v1" width="880"></p>
+
 <a href="https://lux.chat/">
   <h1 align="center">LUX AI</h1>
 </a>
